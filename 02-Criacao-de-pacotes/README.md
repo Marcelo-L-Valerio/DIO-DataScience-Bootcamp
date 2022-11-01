@@ -1,7 +1,7 @@
 # package_name
 
 Description. 
-The package Personal Calculator is used to:
+The package basic ops Calculator is used to:
 	Operations 
 		-Basic
 			-sum, subtractions, division, multiplication, raise a number and make n square of a number
@@ -10,16 +10,16 @@ The package Personal Calculator is used to:
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install personal_calculator
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install basic_ops_calculator
 
 ```bash
-pip install personal_calculator
+pip install basic_ops_calculator
 ```
 
 ## Usage
 
 ```python
-from personal_calculator.operations import basic
+from basic_ops_calculator.operations import basic
 basic.make_sum(a, b)
 ```
 

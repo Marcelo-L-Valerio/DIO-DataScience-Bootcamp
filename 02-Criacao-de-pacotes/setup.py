@@ -7,7 +7,7 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="personal_calculator",
+    name="basic_ops_calculator",
     version="0.0.1",
     author="Marcelo L Valerio",
     author_email="mar.valerio@hotmail.com.br",
