@@ -17,3 +17,15 @@
 ### Nessa segunda pasta(02), os mesmos conceitos já introduzidos são utilizados para realizar uma análise mais profunda, pode-se dizer uma análise mais útil, que fatia o dataframe original para entregar um relatório sobre as vendas.
 
 ### Neste caso, base de dados já vem pronta, em um excel, que é extraído e então realizada uma análise sobre as vendas dos produtos, e principalmente sobre o tempo de entrega, mostrando alguns insights não tão óbvios, mas muito úteis.
+
+## Para rodar:
+
+### Crie o ambiente virtual
+
+python -m venv .venv
+
+### Ative o mesmo, e depois execute o comando
+
+pip install -r requirements.txt
+
+### Por ultimo, selecione o venv no notebook (canto superior direito no VS Code)
