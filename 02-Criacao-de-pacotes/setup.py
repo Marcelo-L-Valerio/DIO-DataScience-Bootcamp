@@ -14,7 +14,7 @@ setup(
     description="A basic calculator, to test the package creation",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/Marcelo-L-Valerio/DIO-DataScience-Bootcamp/tree/main/02-Criacao-de-pacotes",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
