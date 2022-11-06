@@ -2,7 +2,7 @@
 
 ## Bootcamp Data Science Unimed-BH/DIO
 
-### Neste projeto, foram realizadas duas entregas separadas, ambas envolvendo modelagem de um banco de dados para aplicações diferentes: a primeira atividade foi completar o modelo desenvolvido em aula de um banco de dados de um e-commerce, e o segundo foi desenvolver do zero um banco de dados de uma oficina automotiva, seguindo algumas regras de negócio citadas em aula.
+### Neste projeto, foram realizadas duas entregas separadas, ambas envolvendo modelagem de um banco de dados para aplicações diferentes: a primeira atividade foi completar o modelo desenvolvido em aula de um banco de dados de um e-commerce, e o segundo foi desenvolver do zero um banco de dados de uma oficina automotiva, seguindo algumas regras de negócio citadas em aula. Cada projeto possui seu arquivo .png para abrir apenas a imagem da modelagem, e um arquivo .mwb, para abrir o mesmo no workbench
 
 ## Primeiro modelo - e-commerce
 
