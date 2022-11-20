@@ -1,0 +1,44 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Red Hot Chili Peppers"},
+                  "SongTitle": {"S": "Give It Away"},
+                  "AlbumTitle": {"S": "Blood Sugar Sex Magik"},
+                  "SongYear": {"S": "1991"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Red Hot Chili Peppers"},
+                  "SongTitle": {"S": "Scar Tissue"},
+                  "AlbumTitle": {"S": "Californication"},
+                  "SongYear": {"S": "1999"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Red Hot Chili Peppers"},
+                  "SongTitle": {"S": "Californication"},
+                  "AlbumTitle": {"S": "Californication"},
+                  "SongYear": {"S": "2000"}
+                }
+            }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Pink Floyd"},
+                "SongTitle": {"S": "Have a Cigar"},
+                "AlbumTitle": {"S": "Wish You Were Here"},
+                "SongYear": {"S": "1975"}
+              }
+          }
+      }
+      ]
+}
