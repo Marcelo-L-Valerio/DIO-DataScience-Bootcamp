@@ -8,7 +8,7 @@
 ### No arquivo brazil_population_2019.csv, há uma tabela gigantesca, com dados como cidade, população e estado pertencente.
 
 <div align="center">
-    <img src="docs/Amazons_S3.png" width="800">
+    <img src="docs/Amazon_S3.png" width="800">
 </div>
 
 ### Após isso, é criado um crawler no AWS Glue, que é responsável por ler o csv fornecido no S3, e convertêlo em uma tabela num banco de dados. Para isso, basta selecionar a pasta no S3 onde o arquivo está disponibilizado como data source do crawler, e executá-lo, com isso, a tabela já será criada.
@@ -48,7 +48,7 @@ order by sum(population);
 ### Após efetuar as queries, foi utilizado o AWS Quicksight para gerar um dashboard com dados julgados úteis que puderam ser extraídos da tabela, como população total, população por estado/região e cidades por região.
 
 <div align="center">
-    <img src="docs/Dashboard_print.pdf" width="800">
+    <img src="docs/Dashboard_print.png" width="800">
 </div>
 
 ### Recomendo analizar o dashboard pelo pdf, pois infelizmente a fonte é reduzida ao exportar o mesmo, e fica ilegível.
